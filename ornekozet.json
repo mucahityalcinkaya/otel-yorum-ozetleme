@@ -1,0 +1,99 @@
+{
+  "otel_adi": "afyon itil otel, otel",
+  "yorum_sayisi": 29,
+  "aspect_summary": {
+    "temizlik": {
+      "pozitif": 4,
+      "negatif": 13,
+      "notr": 0,
+      "poz_neden1": "kalite",
+      "poz_neden2": null,
+      "neg_neden1": "kalite",
+      "neg_neden2": null
+    },
+    "konum": {
+      "pozitif": 2,
+      "negatif": 1,
+      "notr": 0,
+      "poz_neden1": "kalite",
+      "poz_neden2": null,
+      "neg_neden1": "erisim",
+      "neg_neden2": null
+    },
+    "oda_kalitesi": {
+      "pozitif": 2,
+      "negatif": 7,
+      "notr": 0,
+      "poz_neden1": "kalite",
+      "poz_neden2": null,
+      "neg_neden1": "kalite",
+      "neg_neden2": null
+    },
+    "uyku_yatak_kalitesi": {
+      "pozitif": 0,
+      "negatif": 2,
+      "notr": 0,
+      "poz_neden1": null,
+      "poz_neden2": null,
+      "neg_neden1": "kalite",
+      "neg_neden2": null
+    },
+    "gurultu": {
+      "pozitif": 0,
+      "negatif": 3,
+      "notr": 0,
+      "poz_neden1": null,
+      "poz_neden2": null,
+      "neg_neden1": "erisim",
+      "neg_neden2": "kalite"
+    },
+    "personel": {
+      "pozitif": 3,
+      "negatif": 6,
+      "notr": 0,
+      "poz_neden1": "servis",
+      "poz_neden2": null,
+      "neg_neden1": "servis",
+      "neg_neden2": null
+    },
+    "fiyat_performans": {
+      "pozitif": 1,
+      "negatif": 1,
+      "notr": 0,
+      "poz_neden1": "fiyat",
+      "poz_neden2": null,
+      "neg_neden1": "fiyat",
+      "neg_neden2": null
+    },
+    "banyo_tuvalet": {
+      "pozitif": 1,
+      "negatif": 4,
+      "notr": 0,
+      "poz_neden1": "kalite",
+      "poz_neden2": null,
+      "neg_neden1": "kalite",
+      "neg_neden2": null
+    },
+    "klima_isitma": {
+      "pozitif": 0,
+      "negatif": 4,
+      "notr": 0,
+      "poz_neden1": null,
+      "poz_neden2": null,
+      "neg_neden1": "kalite",
+      "neg_neden2": "yokluk"
+    },
+    "resepsiyon": {
+      "pozitif": 1,
+      "negatif": 0,
+      "notr": 0,
+      "poz_neden1": "servis",
+      "poz_neden2": null,
+      "neg_neden1": null,
+      "neg_neden2": null
+    }
+  },
+  "status": "success",
+  "aspect_text": "- Temizlik: Çok olumsuz (övülen: kalite | şikayet: kalite)\n- Konum: Ağırlıklı olumlu (övülen: kalite | şikayet: erisim)\n- Oda kalitesi: Çok olumsuz (övülen: kalite | şikayet: kalite)\n- Uyku ve yatak konforu: Ağırlıklı olumsuz (şikayet: kalite)\n- Sessizlik / gürültü durumu: Ağırlıklı olumsuz (şikayet: erisim, kalite)\n- Personel: Ağırlıklı olumsuz (övülen: servis | şikayet: servis)\n- Fiyat-performans: Karışık (övülen: fiyat | şikayet: fiyat)\n- Banyo ve tuvalet: Ağırlıklı olumsuz (övülen: kalite | şikayet: kalite)\n- Klima / ısıtma: Ağırlıklı olumsuz (şikayet: kalite, yokluk)\n- Resepsiyon: Ağırlıklı olumlu (övülen: servis)",
+  "ozet": "Afyon İtil Otel, konuklarının beklentilerini tam olarak karşılayamadığı görülmektedir. Temel hizmet ve donanım noktalarında önemli eksiklikler mevcut.\n\nOtelin konumu büyük bir avantaj olarak değerlendiriliyor, ancak bu olumlu imaj, odaların ve genel konforun yetersizliği ile dengeleniyor. Oda kalitesi, yatak konforu ve banyo koşulları konuklar tarafından sıklıkla eleştiriliyor. Yatakların rahatlığı ve banyoların temizliği veya donanımı konusunda büyük memnuniyetsizlikler dile getiriliyor.\n\nEk olarak, otelde yüksek seviyede gürültü yaşandığı ve klima sistemlerinin çalışmaması veya yetersizliği gibi teknik sorunlar şikayet konusu oluyor. Bu durum konukların dinlenme ve rahatını olumsuz etkileyeceği açıktır. Personel hizmetinde ise olumlu övgüler de yer alıyor, ancak genel olarak personel ile ilgili memnuniyetsizlikler daha belirgin.\n\nFiyat-performance dengesi konusunda görüşler karışık; bazı misafirler fiyatın uygun bulurken, diğerleri yetersiz buluyor. Resepsiyon hizmetleri ise olumlu değerlendiriliyor, bu da bir nebze olumlu not düşen bir özellik.\n\nSonuç olarak, konukların genel memnuniyeti otelin konumu ve personelinin olumlu tutumu sayesinde destekleniyor; ancak odalardaki temel konfor unsurlarında ve teknik aksaklıklarda ciddi iyileştirmelere ihtiyaç duyuluyor."
+}
